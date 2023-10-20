@@ -6,7 +6,7 @@ print(resumo)
 #Imprima na tela apenas a segunda letra da variável
 print(resumo[1])
 
-#Imprima na tela o trecho "46"
+#Imprima na tela a idade de Paloma (resposta esperada: "46")
 print(resumo[23:25])
 
 #Imprima na tela o trecho final da variável
@@ -24,7 +24,7 @@ print(resumo.title())
 # Formate a frase para que apenas a primeira letra da frase seja maiúscula e imprima na tela
 print(resumo.capitalize())
 
-# Imprima na tela uma string utilizando uma variável
+# Imprima na tela uma string utilizando uma variável, usando string format
 
 idade = 32
 

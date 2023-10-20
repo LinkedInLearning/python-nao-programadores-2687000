@@ -6,7 +6,7 @@ resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por is
 # Imprima na tela apenas a segunda letra da variável
 
 
-# Imprima na tela o trecho "46"
+# Imprima na tela a idade de Paloma (resposta esperada: "46")
 
 
 # Imprima na tela o trecho final da variável
@@ -24,5 +24,5 @@ resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por is
 # Formate a frase para que apenas a primeira letra da frase seja maiúscula e imprima na tela
 
 
-# Imprima na tela uma string utilizando uma variável
+# Imprima na tela uma string utilizando uma variável, usando string format
 
