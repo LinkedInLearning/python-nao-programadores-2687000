@@ -32,11 +32,11 @@ else:
 
 # Incremente a estrutura condicional já existente com expressões lógicas utilizando "and" ou "or"
 if (x > y) or (x > a):
-    print(f'A condição foi cumprida. O número {x} é maior do que {y}')
+    print(f'A condição foi cumprida. O número {x} é maior do que {y} ou maior do que {a}')
 elif (x == a) and (e > y):
     print(f'Nesse caso, verificamos que o número {x} é maior do que {a}')
 else:
-    print(f'A condição não foi cumprida. Na verdade, o número {y} é maior do que {x}')
+    print(f'Nenhuma das condições anteriores foram cumpridas.')
 
 # Crie uma estrutura condicional onde mais de uma condição seja verdadeira, e use apenas a palavra reservada "if"
 if y > a:

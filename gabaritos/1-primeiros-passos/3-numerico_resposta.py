@@ -11,8 +11,8 @@ print(tipo_data_nascimento)
 print(tipo_idade_numerica)
 print(tipo_altura)
 
-# Realize uma operação entre dado do tipo string e inteiro
+# Realize uma operação entre dados do tipo string e inteiro
 print('Paloma'*2)
 
-# Realize uma operação entre dado do tipo inteiro e float
+# Realize uma operação entre dados do tipo inteiro e float
 print(2+3.4)

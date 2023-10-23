@@ -24,7 +24,7 @@ print(resumo.title())
 # Formate a frase para que apenas a primeira letra da frase seja maiúscula e imprima na tela
 print(resumo.capitalize())
 
-# Imprima na tela uma string utilizando uma variável, usando string format
+# Imprima na tela uma string utilizando uma variável, usando o recurso string format
 
 idade = 32
 

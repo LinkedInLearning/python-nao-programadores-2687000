@@ -9,7 +9,7 @@ pessoa = {'nome':'Crislaine',
 # Imprima na tela o valor equivalente a chave "hobby"
 
 
-# Imprima na tela uma lista apenas com as chaves do dicionário
+# Imprima na tela uma lista apenas com os valores do dicionário
 
 
 # Imprima na tela uma lista apenas com as chaves do dicionário

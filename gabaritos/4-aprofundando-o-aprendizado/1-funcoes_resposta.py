@@ -4,7 +4,7 @@ def seleciona_curso_trilha():
     return curso
 
 # Crie uma função para percorrer todos os níveis de um curso e imprimir na tela a informação do nível atual
-def percorre_curso(curso_selecionado):
+def percorre_niveis_curso(curso_selecionado):
     trilha = {1: {'titulo': 'Introdução a SQL', 'total_niveis': 3}, 2: {'titulo': 'Python: Formação Básica', 'total_niveis': 7}}
 
     curso_atual = trilha[curso_selecionado]['titulo']
@@ -21,5 +21,5 @@ def percorre_curso(curso_selecionado):
 
 # Execute as funções
 curso = seleciona_curso_trilha()
-percorre_curso(curso)
+percorre_niveis_curso(curso)
         
