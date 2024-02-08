@@ -27,8 +27,8 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-cecilia-vieira).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/python-para-nao-programadores/
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEMUJvtBnkGlg/learning-public-crop_675_1200/0/1706864471876?e=2147483647&v=beta&t=Cb4Lsnyi7JaALRAPmUqGhvC02Yi7XOADhgNEBXzMfKc
 
 
 [1]: # (End of BP-Instruction ###############################################################################################)
